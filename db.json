@@ -1,0 +1,16 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "nombre": "Cuentos de Terror",
+            "autor": "Pedro Perez",
+            "anio": 2023
+        },
+        {
+            "id": 2,
+            "nombre": "Novelas Colombianas",
+            "autor": "Juan Acosta",
+            "anio": 2010
+        }
+    ]
+}
